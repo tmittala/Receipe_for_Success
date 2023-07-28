@@ -1,4 +1,9 @@
 # About Us
+
+
+![My Picture](group_picture.jpeg)
+
+
 __Tushar Mittal__
 
 Hello!
