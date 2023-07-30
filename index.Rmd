@@ -8,8 +8,3 @@ documentclass: book
 
 # Info
 AI in Business
-
-(test)
-Looking back when computers first came, population started wondering if technology will dominate the world. In 2000, the whole world thought that human days would ended due to a technological conspiracy.
-
-In 2023, population and business are facing the integration of AI, and now the question is **How is the world going to change?**
