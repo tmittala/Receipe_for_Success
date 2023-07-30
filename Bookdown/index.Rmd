@@ -1,0 +1,10 @@
+---
+title: "MBAn 501 AI Group Project"
+subtitle: "Team Recipe for Success"
+author: "Recepie for Success"
+site: bookdown::bookdown_site
+documentclass: book
+---
+
+# Info
+AI in Business
