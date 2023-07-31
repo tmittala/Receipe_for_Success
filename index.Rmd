@@ -3,17 +3,19 @@ title: "MBAn 501 AI Group Project"
 author: "Recepie for Success"
 subtitle: Team Recipe for Success
 site: bookdown::bookdown_site
-documentclass: book
 ---
 
-# Table Of Contents {.unnumbered}
 
-1. Introduction
+# Table Of Contents
 
-2. About Us
+1. [Introduction] (01-Intro.rmd)
 
-3. Background
+2. [About Us] (02-About-Us.rmd)
 
-4. Examples
+3. [Background] (03-Background.rmd)
 
-5. Conclusion
+4. [Examples] (04-Examples.rmd)
+
+5. [Ethics] (05-Ethics.rmd)
+
+6. [Conclusion] (06-Conclusion.rmd)
