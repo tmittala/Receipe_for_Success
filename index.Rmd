@@ -1,8 +1,10 @@
 ---
 title: "MBAn 501 AI Group Project"
-author: "Recepie for Success"
-subtitle: Team Recipe for Success
-site: bookdown::bookdown_site
+author: "Recipe for Success"
+date: "July 23, 2023"
+output:
+  bookdown::gitbook
+
 ---
 
 
