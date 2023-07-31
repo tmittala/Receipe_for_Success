@@ -6,5 +6,14 @@ site: bookdown::bookdown_site
 documentclass: book
 ---
 
-# Info
-AI in Business
+# Table Of Contents
+
+1. Introduction
+
+2. About Us
+
+3. Background
+
+4. Examples
+
+5. Conclusion
