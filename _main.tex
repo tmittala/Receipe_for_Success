@@ -1,0 +1,195 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={MBAn 501 AI Group Project},
+  pdfauthor={Recepie for Success},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{MBAn 501 AI Group Project}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Team Recipe for Success}
+\author{Recepie for Success}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{table-of-contents}{%
+\chapter*{Table Of Contents}\label{table-of-contents}}
+\addcontentsline{toc}{chapter}{Table Of Contents}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Introduction
+\item
+  About Us
+\item
+  Background
+\item
+  Examples
+\item
+  Conclusion
+\end{enumerate}
+
+\hypertarget{introduction}{%
+\chapter*{Introduction}\label{introduction}}
+\addcontentsline{toc}{chapter}{Introduction}
+
+Emergence and Impact of AI in Business
+
+Looking back when computers first came, the big question was if technology would dominate the world. In 2000, the whole world wondered if the internet would dominate the existing systems. And now in 2023, with the advent of AI, the big question is \textbf{How is the world going to change now?}
+
+As AI technologies develop, companies need to adapt to utilize these technologies for their benefit. AI should be utilized in conjunction with humans.The integration of AI has brought forth unparalleled opportunities to solve complex problems, automate tasks, and revolutionize industries. Its ability to process vast amounts of data, learn from patterns, and generate intelligent insights has paved the way for groundbreaking advancements in diverse fields. However, realizing the full potential of AI requires a strategic approach that goes beyond a superficial understanding of the technology. Extracting real value from AI necessitates a thoughtful and holistic approach that encompasses innovative re-designing of processes, workflows, and systems.
+
+We will be discussing how companies may be able to change their processes for use of AI.
+
+\hypertarget{about-us}{%
+\chapter*{About Us}\label{about-us}}
+\addcontentsline{toc}{chapter}{About Us}
+
+\begin{figure}
+\centering
+\includegraphics{group_picture.jpeg}
+\caption{My Picture}
+\end{figure}
+
+\hypertarget{tushar-mittal}{%
+\section{Tushar Mittal}\label{tushar-mittal}}
+
+Hello!
+I am Tushar Mittal and I am a graduate student at Ross School of Business pursuing my Master of Business Analytics (MBAn). I am an international student from Nepal and did my undergraduate at Ramapo College of New Jersey where I double majored in Accounting and Finance. After my undergraduate, I worked at Deloitte as an Audit and Assurance Analyst in the Philadelphia office, and quickly realized that I wanted to learn more about Analytics and Data. It's just my first semester at Ross, and I have already learnt so much! I look forward to making the best out of my time here at University of Michigan and expanding my network!
+
+\begin{figure}
+\centering
+\includegraphics{Tushar\textquotesingle{}s pic.png}
+\caption{My Picture}
+\end{figure}
+
+I enjoy traveling and visiting new places and believe in giving my 💯\% in whatever I do. In my free time, I like to cook, play video games, or read about new and interesting topics surrounding business and tech. Feel free to connect with me on LinkedIn!
+
+\hypertarget{maria-viera}{%
+\section{Maria Viera}\label{maria-viera}}
+
+Recently graduated from my second bachelor's degree in Economics, I am now a current Master of Business Analytics student at Ross (University of Michigan).
+
+I am originally from Spain with a previous background in \textbf{Dietetics} and \textbf{Sport Nutrition}. During my time in Spain and after 6 years in the \textbf{Health} field, I moved to the United States and decided to change careers to \textbf{Economics}.
+
+Crossing the pond for my first time in 2019 meant starting from zero: language, culture, making friends, food, career, etc. Getting involved with the community through voluntary activities while studying English, prepared me to an \textbf{English academic level in less than two years} to start my second degree in Economics.
+
+As a \textbf{Military Spouse}, life changes every three years, so my option to start a new career had to be online. This lifestyle tough me \emph{to get comfortable when being uncomfortable}. As an example, the time to move for the next assignment was in the middle of my first semester, when we had to move to England (my current home). A fun fact is that I had to study on the floor for two weeks until we got some borrowed furniture. After two years and a half, I graduated this past May 2023, and a month later I started the MBAn's program which is inspiring me to keep growing and overcome my barriers to be the best version of myself.
+
+\hypertarget{juliet-niebylski}{%
+\section{Juliet Niebylski}\label{juliet-niebylski}}
+
+I have a B.S.E. in Data Science from University of Michigan and am interested in applying data science for business. I am from Kensington, Maryland. I enjoy baking different types of desserts.
+
+\hypertarget{ruchi-pallod}{%
+\section{Ruchi Pallod}\label{ruchi-pallod}}
+
+Hi! I'm Ruchi, currently pursuing a Master of Business Analytics at Michigan Ross. I possess extensive experience in the Finance \& Banking industry and have my undergraduate degree in Economics and Statistics. At Ross, I'm working part-time as a Research Associate at the Economic Growth Institute.
+
+\hypertarget{ashley-chen}{%
+\section{Ashley Chen}\label{ashley-chen}}
+
+Hello There! I'm Ashley, currently at Ross School of Business pursuing my Master of Business Analytics (MBAn). I graduated from the University of Washington, Seattle, with an Economics degree.
+
+After graduation, I had the incredible opportunity to work at TikTok's Data and AI Center, where I focused on business systems and databases. Subsequently, I joined Shopee's recommendation system team as a data analyst, helping them tailor their e-commerce homepage for 12 million users. These experiences have allowed me to witness how data analytics and data infrastructure can significantly empower businesses. Now I'm excited to delve deeper into the intersection of data and technology at Ross!
+
+My hobbies include literature, singing, immersing myself in nature, and exploring cross-cultural travel experiences. Feel free to connect with me on LinkedIn!
+
+\hypertarget{background}{%
+\chapter*{Background}\label{background}}
+\addcontentsline{toc}{chapter}{Background}
+
+\hypertarget{examples}{%
+\chapter*{Examples}\label{examples}}
+\addcontentsline{toc}{chapter}{Examples}
+
+\hypertarget{conclusion}{%
+\chapter*{Conclusion}\label{conclusion}}
+\addcontentsline{toc}{chapter}{Conclusion}
+
+\end{document}
