@@ -1,7 +1,7 @@
 rmd_files:
   - index.Rmd
-  - 01-Intro.Rmd
-  - 02-About-Us.Rmd
+  - Intro.Rmd
+  - About-Us.Rmd
   - 03-Background.Rmd
   - 04-Examples.Rmd
   - 05-Ethics.Rmd
