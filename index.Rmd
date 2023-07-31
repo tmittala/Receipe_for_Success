@@ -8,14 +8,14 @@ site: bookdown::bookdown_site
 
 # Table Of Contents
 
-1. [Introduction] (01-Intro.rmd)
+1. [Introduction] (01-Intro.Rmd)
 
-2. [About Us] (02-About-Us.rmd)
+2. [About Us] (02-About-Us.Rmd)
 
-3. [Background] (03-Background.rmd)
+3. [Background] (03-Background.Rmd)
 
-4. [Examples] (04-Examples.rmd)
+4. [Examples] (04-Examples.Rmd)
 
-5. [Ethics] (05-Ethics.rmd)
+5. [Ethics] (05-Ethics.Rmd)
 
-6. [Conclusion] (06-Conclusion.rmd)
+6. [Conclusion] (06-Conclusion.Rmd)
