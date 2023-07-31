@@ -1,21 +1,15 @@
 ---
 title: "MBAn 501 AI Group Project"
-author: "Recipe for Success"
-date: "July 23, 2023"
-output:
-  bookdown::gitbook
+author: "Recepie for Success"
+subtitle: Team Recipe for Success
+site: bookdown::bookdown_site
 ---
 
 # Table Of Contents
 
-1.  [Introduction] (01-Intro.Rmd)
-
-2.  [About Us] (02-About-Us.Rmd)
-
-3.  [Background] (03-Background.Rmd)
-
-4.  [Examples] (04-Examples.Rmd)
-
-5.  [Ethics] (05-Ethics.Rmd)
-
-6.  [Conclusion] (06-Conclusion.Rmd)
+- 1. [Introduction](01-Intro.Rmd)
+- 2. [About Us](02-About-Us.Rmd)
+- 3. [Background](03-Background.Rmd)
+- 4. [Examples](04-Examples.Rmd)
+- 5. [Ethics](05-Ethics.Rmd)
+- 6. [Conclusion](06-Conclusion.Rmd)

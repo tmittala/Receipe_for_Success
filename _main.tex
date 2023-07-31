@@ -3,7 +3,7 @@
 \PassOptionsToPackage{hyphens}{url}
 %
 \documentclass[
-]{book}
+]{article}
 \usepackage{amsmath,amssymb}
 \usepackage{iftex}
 \ifPDFTeX
@@ -36,6 +36,7 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -93,30 +94,65 @@
 \maketitle
 
 {
-\setcounter{tocdepth}{1}
+\setcounter{tocdepth}{2}
 \tableofcontents
 }
 \hypertarget{table-of-contents}{%
-\chapter*{Table Of Contents}\label{table-of-contents}}
-\addcontentsline{toc}{chapter}{Table Of Contents}
+\section{Table Of Contents}\label{table-of-contents}}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
+\begin{itemize}
 \item
-  Introduction
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi}.}
+  \tightlist
+  \item
+    \href{01-Intro.Rmd}{Introduction}
+  \end{enumerate}
 \item
-  About Us
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi}.}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+    \href{02-About-Us.Rmd}{About Us}
+  \end{enumerate}
 \item
-  Background
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi}.}
+  \setcounter{enumi}{2}
+  \tightlist
+  \item
+    \href{03-Background.Rmd}{Background}
+  \end{enumerate}
 \item
-  Examples
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi}.}
+  \setcounter{enumi}{3}
+  \tightlist
+  \item
+    \href{04-Examples.Rmd}{Examples}
+  \end{enumerate}
 \item
-  Conclusion
-\end{enumerate}
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi}.}
+  \setcounter{enumi}{4}
+  \tightlist
+  \item
+    \href{05-Ethics.Rmd}{Ethics}
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi}.}
+  \setcounter{enumi}{5}
+  \tightlist
+  \item
+    \href{06-Conclusion.Rmd}{Conclusion}
+  \end{enumerate}
+\end{itemize}
 
 \hypertarget{introduction}{%
-\chapter*{Introduction}\label{introduction}}
-\addcontentsline{toc}{chapter}{Introduction}
+\section*{Introduction}\label{introduction}}
+\addcontentsline{toc}{section}{Introduction}
 
 Emergence and Impact of AI in Business
 
@@ -127,8 +163,8 @@ As AI technologies develop, companies need to adapt to utilize these technologie
 We will be discussing how companies may be able to change their processes for use of AI.
 
 \hypertarget{about-us}{%
-\chapter*{About Us}\label{about-us}}
-\addcontentsline{toc}{chapter}{About Us}
+\section*{About Us}\label{about-us}}
+\addcontentsline{toc}{section}{About Us}
 
 \begin{figure}
 \centering
@@ -137,7 +173,7 @@ We will be discussing how companies may be able to change their processes for us
 \end{figure}
 
 \hypertarget{tushar-mittal}{%
-\section{Tushar Mittal}\label{tushar-mittal}}
+\subsection{Tushar Mittal}\label{tushar-mittal}}
 
 Hello!
 I am Tushar Mittal and I am a graduate student at Ross School of Business pursuing my Master of Business Analytics (MBAn). I am an international student from Nepal and did my undergraduate at Ramapo College of New Jersey where I double majored in Accounting and Finance. After my undergraduate, I worked at Deloitte as an Audit and Assurance Analyst in the Philadelphia office, and quickly realized that I wanted to learn more about Analytics and Data. It's just my first semester at Ross, and I have already learnt so much! I look forward to making the best out of my time here at University of Michigan and expanding my network!
@@ -151,7 +187,7 @@ I am Tushar Mittal and I am a graduate student at Ross School of Business pursui
 I enjoy traveling and visiting new places and believe in giving my 💯\% in whatever I do. In my free time, I like to cook, play video games, or read about new and interesting topics surrounding business and tech. Feel free to connect with me on LinkedIn!
 
 \hypertarget{maria-viera}{%
-\section{Maria Viera}\label{maria-viera}}
+\subsection{Maria Viera}\label{maria-viera}}
 
 Recently graduated from my second bachelor's degree in Economics, I am now a current Master of Business Analytics student at Ross (University of Michigan).
 
@@ -162,17 +198,17 @@ Crossing the pond for my first time in 2019 meant starting from zero: language, 
 As a \textbf{Military Spouse}, life changes every three years, so my option to start a new career had to be online. This lifestyle tough me \emph{to get comfortable when being uncomfortable}. As an example, the time to move for the next assignment was in the middle of my first semester, when we had to move to England (my current home). A fun fact is that I had to study on the floor for two weeks until we got some borrowed furniture. After two years and a half, I graduated this past May 2023, and a month later I started the MBAn's program which is inspiring me to keep growing and overcome my barriers to be the best version of myself.
 
 \hypertarget{juliet-niebylski}{%
-\section{Juliet Niebylski}\label{juliet-niebylski}}
+\subsection{Juliet Niebylski}\label{juliet-niebylski}}
 
 I have a B.S.E. in Data Science from University of Michigan and am interested in applying data science for business. I am from Kensington, Maryland. I enjoy baking different types of desserts.
 
 \hypertarget{ruchi-pallod}{%
-\section{Ruchi Pallod}\label{ruchi-pallod}}
+\subsection{Ruchi Pallod}\label{ruchi-pallod}}
 
 Hi! I'm Ruchi, currently pursuing a Master of Business Analytics at Michigan Ross. I possess extensive experience in the Finance \& Banking industry and have my undergraduate degree in Economics and Statistics. At Ross, I'm working part-time as a Research Associate at the Economic Growth Institute.
 
 \hypertarget{ashley-chen}{%
-\section{Ashley Chen}\label{ashley-chen}}
+\subsection{Ashley Chen}\label{ashley-chen}}
 
 Hello There! I'm Ashley, currently at Ross School of Business pursuing my Master of Business Analytics (MBAn). I graduated from the University of Washington, Seattle, with an Economics degree.
 
@@ -181,19 +217,19 @@ After graduation, I had the incredible opportunity to work at TikTok's Data and 
 My hobbies include literature, singing, immersing myself in nature, and exploring cross-cultural travel experiences. Feel free to connect with me on LinkedIn!
 
 \hypertarget{background}{%
-\chapter*{Background}\label{background}}
-\addcontentsline{toc}{chapter}{Background}
+\section*{Background}\label{background}}
+\addcontentsline{toc}{section}{Background}
 
 \hypertarget{examples}{%
-\chapter*{Examples}\label{examples}}
-\addcontentsline{toc}{chapter}{Examples}
+\section*{Examples}\label{examples}}
+\addcontentsline{toc}{section}{Examples}
 
 \hypertarget{ethics}{%
-\chapter*{Ethics}\label{ethics}}
-\addcontentsline{toc}{chapter}{Ethics}
+\section*{Ethics}\label{ethics}}
+\addcontentsline{toc}{section}{Ethics}
 
 \hypertarget{conclusion}{%
-\chapter{Conclusion}\label{conclusion}}
+\section{Conclusion}\label{conclusion}}
 
 Thank you for reading!
 
