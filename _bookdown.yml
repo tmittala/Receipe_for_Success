@@ -6,6 +6,7 @@ rmd_files:
   - 04-Examples.Rmd
   - 05-Ethics.Rmd
   - 06-Conclusion.Rmd
+  
 delete_merged_file: true
 language:
   ui:
