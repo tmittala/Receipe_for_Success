@@ -1,8 +1,0 @@
-# Introduction {.unnumbered}
-Emergence and Impact of AI in Business
-
-Looking back when computers first came, the big question was if technology would dominate the world. In 2000, the whole world wondered if the internet would dominate the existing systems. And now in 2023, with the advent of AI, the big question is __How is the world going to change now?__
-
-As AI technologies develop, companies need to adapt to utilize these technologies for their benefit. AI should be utilized in conjunction with humans.The integration of AI has brought forth unparalleled opportunities to solve complex problems, automate tasks, and revolutionize industries. Its ability to process vast amounts of data, learn from patterns, and generate intelligent insights has paved the way for groundbreaking advancements in diverse fields. However, realizing the full potential of AI requires a strategic approach that goes beyond a superficial understanding of the technology. Extracting real value from AI necessitates a thoughtful and holistic approach that encompasses innovative re-designing of processes, workflows, and systems.
-
-We will be discussing how companies may be able to change their processes for use of AI.
