@@ -1,6 +1,6 @@
 ---
 title: "MBAn 501 AI Group Project"
-author: "Recepie for Success"
+author: "Recipie for Success"
 subtitle: Team Recipe for Success
 site: bookdown::bookdown_site
 ---
