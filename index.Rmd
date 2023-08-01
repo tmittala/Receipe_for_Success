@@ -5,7 +5,7 @@ subtitle: Team Recipe for Success
 site: bookdown::bookdown_site
 ---
 
-# Table Of Contents
+# Table Of Contents {-}
 
 - 1. [Introduction](01-Intro.Rmd)
 - 2. [About Us](02-About-Us.Rmd)
