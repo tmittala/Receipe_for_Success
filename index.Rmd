@@ -1,0 +1,19 @@
+---
+title: "MBAn 501 AI Group Project"
+author: "Recipe for Success"
+subtitle: Team Recipe for Success
+site: bookdown::bookdown_site
+documentclass: book
+---
+
+# Table Of Contents {.unnumbered}
+
+1. Introduction
+
+2. About Us
+
+3. Background
+
+4. Examples
+
+5. Conclusion
