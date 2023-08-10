@@ -1,6 +1,6 @@
 ---
 title: "MBAn 501 AI Group Project"
-author: "Recipie for Success"
+author: "Recipe for Success"
 subtitle: Team Recipe for Success
 site: bookdown::bookdown_site
 ---
@@ -9,7 +9,7 @@ site: bookdown::bookdown_site
 
 - 1. [Introduction](01-Intro.Rmd)
 - 2. [About Us](02-About-Us.Rmd)
-- 3. [Background](03-Background.Rmd)
-- 4. [Examples](04-Examples.Rmd)
+- 3. [Soft vs Hard Adoption](03-Soft-vs-Hard-Adoption.Rmd)
+- 4. [Relevance of Hard Adoption](04-Relevance-of-Hard-Adoption.Rmd)
 - 5. [Ethics](05-Ethics.Rmd)
 - 6. [Conclusion](06-Conclusion.Rmd)
