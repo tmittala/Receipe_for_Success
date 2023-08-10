@@ -1,6 +1,6 @@
 ---
 title: "MBAn 501 AI Group Project"
-author: "Recipie for Success"
+author: "Recipe for Success"
 subtitle: Team Recipe for Success
 site: bookdown::bookdown_site
 ---
@@ -9,21 +9,21 @@ site: bookdown::bookdown_site
 
 - 1. [Introduction](01-Intro.Rmd)
 - 2. [About Us](02-About-Us.Rmd)
-- 3. [Background](03-Background.Rmd)
-- 4. [Examples](04-Examples.Rmd)
+- 3. [Soft vs Hard Adoption](03-Soft-vs-Hard-Adoption.Rmd)
+- 4. [Relevance of Hard Adoption](04-Relevance-of-Hard-Adoption.Rmd)
 - 5. [Ethics](05-Ethics.Rmd)
 - 6. [Conclusion](06-Conclusion.Rmd)
 
 <!--chapter:end:index.Rmd-->
 
 # Introduction {.unnumbered}
-Emergence and Impact of AI in Business
+__Adoption of AI in Business__
 
 Looking back when computers first came, the big question was if technology would dominate the world. In 2000, the whole world wondered if the internet would dominate the existing systems. And now in 2023, with the advent of AI, the big question is __How is the world going to change now?__
 
-As AI technologies develop, companies need to adapt to utilize these technologies for their benefit. AI should be utilized in conjunction with humans.The integration of AI has brought forth unparalleled opportunities to solve complex problems, automate tasks, and revolutionize industries. Its ability to process vast amounts of data, learn from patterns, and generate intelligent insights has paved the way for groundbreaking advancements in diverse fields. However, realizing the full potential of AI requires a strategic approach that goes beyond a superficial understanding of the technology. Extracting real value from AI necessitates a thoughtful and holistic approach that encompasses innovative re-designing of processes, workflows, and systems.
+As AI technologies develop, companies need to adapt to utilize these technologies for their benefit. AI should be utilized in conjunction with humans. We will be discussing how companies may be able to change their processes for use of AI.
 
-We will be discussing how companies may be able to change their processes for use of AI.
+The integration of AI has brought forth unparalleled opportunities to solve complex problems, automate tasks, and revolutionize industries. Its ability to process vast amounts of data, learn from patterns, and generate intelligent insights has paved the way for groundbreaking advancements in diverse fields. However, realizing the full potential of AI requires a strategic approach that goes beyond a superficial understanding of the technology. Extracting real value from AI necessitates a thoughtful and holistic approach that encompasses innovative re-designing of processes, workflows, and systems.
 
 <!--chapter:end:01-Intro.Rmd-->
 
@@ -38,7 +38,7 @@ We will be discussing how companies may be able to change their processes for us
 Hello!
 I am Tushar Mittal and I am a graduate student at Ross School of Business pursuing my Master of Business Analytics (MBAn). I am an international student from Nepal and did my undergraduate at Ramapo College of New Jersey where I double majored in Accounting and Finance. After my undergraduate, I worked at Deloitte as an Audit and Assurance Analyst in the Philadelphia office, and quickly realized that I wanted to learn more about Analytics and Data. It’s just my first semester at Ross, and I have already learnt so much! I look forward to making the best out of my time here at University of Michigan and expanding my network!
 
-![My Picture](Tushar's pic.png)
+![My Picture](Tushar's pic.jpeg)
 
 I enjoy traveling and visiting new places and believe in giving my 💯% in whatever I do. In my free time, I like to cook, play video games, or read about new and interesting topics surrounding business and tech. Feel free to connect with me on LinkedIn!
 
@@ -71,13 +71,13 @@ My hobbies include literature, singing, immersing myself in nature, and explorin
 
 <!--chapter:end:02-About-Us.Rmd-->
 
-# Background {.unnumbered}
+# Soft vs Hard Adoption {.unnumbered}
 
-<!--chapter:end:03-Background.Rmd-->
+<!--chapter:end:03-Soft-vs-Hard-Adoption.Rmd-->
 
-# Examples {.unnumbered}
+# Relevance of Hard Adoption {.unnumbered}
 
-<!--chapter:end:04-Examples.Rmd-->
+<!--chapter:end:04-Relevance-of-Hard-Adoption.Rmd-->
 
 # Ethics {.unnumbered}
 

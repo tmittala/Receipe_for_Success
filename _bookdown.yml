@@ -1,12 +1,3 @@
-rmd_files:
-  - index.Rmd
-  - 01-Intro.Rmd
-  - 02-About-Us.Rmd
-  - 03-Background.Rmd
-  - 04-Examples.Rmd
-  - 05-Ethics.Rmd
-  - 06-Conclusion.Rmd
-  
 output_dir: "docs"
 
 delete_merged_file: true
