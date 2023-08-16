@@ -1,15 +1,22 @@
 ---
 title: "MBAn 501 AI Group Project"
-subtitle: "Team Recipe for Success"
-author: "Recepie for Success"
+author: "Recipe for Success"
+subtitle: Team Recipe for Success
 site: bookdown::bookdown_site
-documentclass: book
 ---
 
-# Info
-AI in Business
+# Table Of Contents {.unnumbered}
 
-(test)
-Looking back when computers first came, population started wondering if technology will dominate the world. In 2000, the whole world thought that human days would ended due to a technological conspiracy.
 
-In 2023, population and business are facing the integration of AI, and now the question is **How is the world going to change?**
+- 1. [Introduction](01-Intro.Rmd)
+- 2. [About Us](02-About-Us.Rmd)
+- 3. [Need for Hard Adoption](03-Need-for-Hard-Adoption.Rmd)
+- 4. [Industry Overview](04-Industry-Overview.Rmd)
+- 5. [Finance](05-Finance.Rmd)
+- 6. [Tech](06-Tech.Rmd)
+- 7. [Retail](07-Retail.Rmd)
+- 8. [Automotive](08-Automotive.Rmd)
+- 9. [Public Sector - Department of Defense](09-Public-Sector-Department-of-Defense.Rmd)
+- 10. [Things to Consider](10-Things-to-Consider.Rmd)
+- 11. [Conclusion](11-Conclusion.Rmd)
+c6ac848b5c4eed1ad4d12a7b45c82d0f084148f7
