@@ -1,7 +1,7 @@
-# About Us {.unnumbered}
+# About Us
 
 
-![My Picture](group_picture.jpeg)
+![](group_picture.jpeg)
 
 
 ## Tushar Mittal
@@ -9,9 +9,9 @@
 Hello!
 I am Tushar Mittal and I am a graduate student at Ross School of Business pursuing my Master of Business Analytics (MBAn). I am an international student from Nepal and did my undergraduate at Ramapo College of New Jersey where I double majored in Accounting and Finance. After my undergraduate, I worked at Deloitte as an Audit and Assurance Analyst in the Philadelphia office, and quickly realized that I wanted to learn more about Analytics and Data. It’s just my first semester at Ross, and I have already learnt so much! I look forward to making the best out of my time here at University of Michigan and expanding my network!
 
-![My Picture](Tushar's pic.jpeg)
+![](Tushar's pic.jpeg)
 
-I enjoy traveling and visiting new places and believe in giving my 💯% in whatever I do. In my free time, I like to cook, play video games, or read about new and interesting topics surrounding business and tech. Feel free to connect with me on LinkedIn(https://www.linkedin.com/in/tmittala/)!
+I enjoy traveling and visiting new places and believe in giving my 💯% in whatever I do. In my free time, I like to cook, play video games, or read about new and interesting topics surrounding business and tech. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tmittala/)!
 
 ## Maria Viera
 
