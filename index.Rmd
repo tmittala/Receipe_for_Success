@@ -7,9 +7,16 @@ site: bookdown::bookdown_site
 
 # Table Of Contents {.unnumbered}
 
+
 - 1. [Introduction](01-Intro.Rmd)
 - 2. [About Us](02-About-Us.Rmd)
-- 3. [Soft vs Hard Adoption](03-Soft-vs-Hard-Adoption.Rmd)
-- 4. [Relevance of Hard Adoption](04-Relevance-of-Hard-Adoption.Rmd)
-- 5. [Ethics](05-Ethics.Rmd)
-- 6. [Conclusion](06-Conclusion.Rmd)
+- 3. [Need for Hard Adoption](03-Need-for-Hard-Adoption.Rmd)
+- 4. [Industry Overview](04-Industry-Overview.Rmd)
+- 5. [Finance](05-Finance.Rmd)
+- 6. [Tech](06-Tech.Rmd)
+- 7. [Retail](07-Retail.Rmd)
+- 8. [Automotive](08-Automotive.Rmd)
+- 9. [Public Sector - Department of Defense](09-Public-Sector-Department-of-Defense.Rmd)
+- 10. [Things to Consider](10-Things-to-Consider.Rmd)
+- 11. [Conclusion](11-Conclusion.Rmd)
+c6ac848b5c4eed1ad4d12a7b45c82d0f084148f7
