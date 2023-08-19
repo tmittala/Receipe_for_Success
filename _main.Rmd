@@ -1,7 +1,7 @@
 ---
-title: "MBAn 501 AI Group Project"
-author: "Recipe for Success"
-subtitle: Team Recipe for Success
+title: "Adoption of AI in Business"
+author: "Ashley Chen, Tushar Mittal, Juliet Niebylski, Ruchi Pallod, Maria Viera"
+subtitle: Recipe for Success
 site: bookdown::bookdown_site
 ---
 
@@ -376,76 +376,92 @@ Thank you for reading!
 
 __Need for Hard Adoption__
 
-Desjardins, J. (2018, February 14). ___The Rising Speed of Technological Adoption.___ Visual Capitalist. https://www.visualcapitalist.com/rising-speed-technological-adoption/
+Desjardins, J. (2018, February 14). _The Rising Speed of Technological Adoption._ Visual Capitalist. https://www.visualcapitalist.com/rising-speed-technological-adoption/
+
 
 __Finance__
 
-___AI in Finance: Applications, Examples & Benefits.___ (n.d.). Google Cloud. https://cloud.google.com/discover/finance-ai
+_AI in Finance: Applications, Examples & Benefits._ (n.d.). Google Cloud. https://cloud.google.com/discover/finance-ai
 
-Basrai, A., & Ali, S. (2021, September 23). ___Artificial Intelligence in Risk Management - KPMG United Arab Emirates___. KPMG. https://kpmg.com/ae/en/home/insights/2021/09/artificial-intelligence-in-risk-management.html#:~:text=In%20risk%20management%2C%20AI%2FML
+Basrai, A., & Ali, S. (2021, September 23). _Artificial Intelligence in Risk Management - KPMG United Arab Emirates_. KPMG. https://kpmg.com/ae/en/home/insights/2021/09/artificial-intelligence-in-risk-management.html#:~:text=In%20risk%20management%2C%20AI%2FML
 
-Fries, T. (2023, January 6). ___Robo-Advisor vs. Financial Advisor (2022): Choose the Right One.___ The Tokenist. https://tokenist.com/investing/robo-advisor-vs-financial-advisor/
+Fries, T. (2023, January 6). _Robo-Advisor vs. Financial Advisor (2022): Choose the Right One._ The Tokenist. https://tokenist.com/investing/robo-advisor-vs-financial-advisor/
 
-Gartner. (2022, October 13). ___Gartner Identifies 5 Top Use Cases for AI in Corporate Finance.___ Gartner. https://www.gartner.com/en/newsroom/press-releases/2022-10-13-gartner-identifies-5-top-use-cases-for-ai-in-corporate-finance
+Gartner. (2022, October 13). _Gartner Identifies 5 Top Use Cases for AI in Corporate Finance._ Gartner. https://www.gartner.com/en/newsroom/press-releases/2022-10-13-gartner-identifies-5-top-use-cases-for-ai-in-corporate-finance
 
-Kikidzhan, K. (2021, October 15). ___AI for Risk Management: Why Use and How to Ace It.___ Vilmate. https://vilmate.com/blog/ai-for-risk-management-pros-cons-tips/
+Kikidzhan, K. (2021, October 15). _AI for Risk Management: Why Use and How to Ace It._ Vilmate. https://vilmate.com/blog/ai-for-risk-management-pros-cons-tips/
 
-Lee, J. (2023, January 18). ___The Future of AI in Lending.___ Experian. https://www.experian.com/blogs/insights/2023/01/future-ai-lending/#:~:text=The%20benefits%20of%20AI%20in
+Lee, J. (2023, January 18). _The Future of AI in Lending._ Experian. https://www.experian.com/blogs/insights/2023/01/future-ai-lending/#:~:text=The%20benefits%20of%20AI%20in
 
-Sandoval, I., & Riddell, S. (2023, January 19). ___How AI is Advancing the Securities and Commodities Industry.___ Www.morganlewis.com. https://www.morganlewis.com/pubs/2023/01/how-ai-is-advancing-the-securities-and-commodities-industry
+Sandoval, I., & Riddell, S. (2023, January 19). _How AI is Advancing the Securities and Commodities Industry._ Www.morganlewis.com. https://www.morganlewis.com/pubs/2023/01/how-ai-is-advancing-the-securities-and-commodities-industry
 
 
 __Tech__
 
+
+
 __Retail__
 
-Alva, M. (n.d.). As AI adoption increases in the retail industry, AI preparedness increases – is it moving too fast? KPMG. Retrieved August 18, 2023, from https://info.kpmg.us/news-perspectives/technology-innovation/thriving-in-an-ai-world/ai-adoption-retail.html
+Alva, M. (n.d.). _As AI adoption increases in the retail industry, AI preparedness increases – is it moving too fast?_ KPMG. Retrieved August 18, 2023, from https://info.kpmg.us/news-perspectives/technology-innovation/thriving-in-an-ai-world/ai-adoption-retail.html
 
-DeVon, C. (2023, May 19). From Amazon to Wendy’s, how 4 companies plan to incorporate AI—and how you may interact with it. CNBC. https://www.cnbc.com/2023/05/19/from-amazon-to-walmart-how-companies-plan-to-incorporate-ai.html
+DeVon, C. (2023, May 19). _From Amazon to Wendy’s, how 4 companies plan to incorporate AI—and how you may interact with it._ CNBC. https://www.cnbc.com/2023/05/19/from-amazon-to-walmart-how-companies-plan-to-incorporate-ai.html
 
-Goldman, S. (2022, June 9). AI is embedded everywhere at Walmart. VentureBeat. https://venturebeat.com/ai/ai-is-embedded-everywhere-at-walmart/
+Goldman, S. (2022, June 9). _AI is embedded everywhere at Walmart._ VentureBeat. https://venturebeat.com/ai/ai-is-embedded-everywhere-at-walmart/
 
-Incandela, D. (2022, March 2). Walmart Launches Zeekit Virtual Fitting Room Technology. Walmart. https://corporate.walmart.com/newsroom/2022/03/02/walmart-launches-zeekit-virtual-fitting-room-technology
+Incandela, D. (2022, March 2). _Walmart Launches Zeekit Virtual Fitting Room Technology._ Walmart. https://corporate.walmart.com/newsroom/2022/03/02/walmart-launches-zeekit-virtual-fitting-room-technology
 
-Owen, R. (2021, August 7). AI at Walmart—Comparison to Amazon, and Two Unique Use-Cases. Emerj. https://emerj.com/ai-sector-overviews/ai-at-walmart/
+Owen, R. (2021, August 7). _AI at Walmart—Comparison to Amazon, and Two Unique Use-Cases._ Emerj. https://emerj.com/ai-sector-overviews/ai-at-walmart/
 
-Perez, S. (2019, April 25). Walmart unveils an AI-powered store of the future, now open to the public. TechCrunch. https://techcrunch.com/2019/04/25/walmart-unveils-an-a-i-powered-store-of-the-future-now-open-to-the-public/
+Perez, S. (2019, April 25). _Walmart unveils an AI-powered store of the future, now open to the public._ TechCrunch. https://techcrunch.com/2019/04/25/walmart-unveils-an-a-i-powered-store-of-the-future-now-open-to-the-public/
 
-Perez, S. (2022, March 2). Walmart launches AI-powered virtual clothing try-on technology for online shoppers. TechCrunch. https://techcrunch.com/2022/03/02/walmart-launches-a-i-powered-virtual-clothing-try-on-technology-for-online-shoppers/
+Perez, S. (2022, March 2). _Walmart launches AI-powered virtual clothing try-on technology for online shoppers._ TechCrunch. https://techcrunch.com/2022/03/02/walmart-launches-a-i-powered-virtual-clothing-try-on-technology-for-online-shoppers/
 
-Saucy. (2019, September 21). Bossa Nova robot scanning shelf at Walmart.jpg. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Bossa_Nova_robot_scanning_shelf_at_Walmart.jpg
+Saucy. (2019, September 21). _Bossa Nova robot scanning shelf at Walmart.jpg. Wikimedia Commons._ https://commons.wikimedia.org/wiki/File:Bossa_Nova_robot_scanning_shelf_at_Walmart.jpg
 
-Silberling, A. (2021, June 24). Walmart’s AI is getting smarter about grocery delivery. TechCrunch. https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/
+Silberling, A. (2021, June 24). _Walmart’s AI is getting smarter about grocery delivery._ TechCrunch. https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/
 
-Sularia, S. (2023, March 14). Six Ways Retail Can Leverage Generative AI To Transform Business. Forbes. https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/
-___Walmart’s AI-Powered Store of the Future Is Nothing Like Amazon Go.___ (n.d.). Future Stores. Retrieved August 18, 2023, from https://futurestoreseast.wbresearch.com/blog/walmart-ai-powered-store-strategy-future-amazon-go
+Sularia, S. (2023, March 14). _Six Ways Retail Can Leverage Generative AI To Transform Business._ Forbes. https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/
+
+_Walmart’s AI-Powered Store of the Future Is Nothing Like Amazon Go._ (n.d.). Future Stores. Retrieved August 18, 2023, from https://futurestoreseast.wbresearch.com/blog/walmart-ai-powered-store-strategy-future-amazon-go
+
 
 __Automotive__
 
-Ranch, S. (2023, August 11). AI in the Automotive Industry: A 2023 Outlook. Simplilearn. https://www.simplilearn.com/ai-in-automative-article
+Ranch, S. (2023, August 11). _AI in the Automotive Industry: A 2023 Outlook._ Simplilearn. https://www.simplilearn.com/ai-in-automative-article
 
-Ramsey, M., Pacheco, P., Davenport, J., & Linden, A. (2022, February 11). Infographic: Artificial Intelligence Use-Case Prism for Automotive Enterprises. Retrieved from https://www.gartner.com/document/code/733780?ref=authbody&refval=4384099
+Ramsey, M., Pacheco, P., Davenport, J., & Linden, A. (2022, February 11). _Infographic: Artificial Intelligence Use-Case Prism for Automotive Enterprises._ Retrieved from https://www.gartner.com/document/code/733780?ref=authbody&refval=4384099
 
-Bigelow, P. (2023, June 20). Toyota unleashes generative AI to meld vehicle design with engineering principles. Automotive News. https://www.autonews.com/mobility-report/toyota-researches-generative-ai-use-car-design?adobe_mc=MCMID%3D79962625312007428264394908055205241024%7CMCORGID%3D138FFF2554E6E7220A4C98C6%2540AdobeOrg%7CTS%3D1691239955&CSAuthResp=1%3A%3A397760%3A24061%3A24%3Asuccess%3A9B7B815F850E8E963151017B408DBA46
+Bigelow, P. (2023, June 20). _Toyota unleashes generative AI to meld vehicle design with engineering principles._ Automotive News. https://www.autonews.com/mobility-report/toyota-researches-generative-ai-use-car-design?adobe_mc=MCMID%3D79962625312007428264394908055205241024%7CMCORGID%3D138FFF2554E6E7220A4C98C6%2540AdobeOrg%7CTS%3D1691239955&CSAuthResp=1%3A%3A397760%3A24061%3A24%3Asuccess%3A9B7B815F850E8E963151017B408DBA46
 
-Olufemi, I. (2023, June 26). AI in Automotive: How it Will Revolutionize the Future. Medium. https://medium.com/@theglobaltechgirl/ai-in-automotive-how-it-will-revolutionalize-the-future-462372c3f5f6
+Olufemi, I. (2023, June 26). _AI in Automotive: How it Will Revolutionize the Future._ Medium. https://medium.com/@theglobaltechgirl/ai-in-automotive-how-it-will-revolutionalize-the-future-462372c3f5f6
 
 
 __Public Sector - Department of Defense__
-Clark, J. (2023, June 15). DOD committed to ethical use of artificial intelligence. U.S. Department of Defense. https://www.defense.gov/News/News-Stories/Article/Article/3429864/dod-committed-to-ethical-use-of-artificial-intelligence/
-CSIS (2020, November 06). Joint Artificial Intelligence Center director discusses artificial intelligence and the military. U.S. Department of Defense. https://www.defense.gov/Multimedia/Videos/videoid/772012/
-Gibbs, S. (2018, March 07). Google’s AI is being used by US military drone programme. The Guardian. https://www.theguardian.com/technology/2018/mar/07/google-ai-us-department-of-defense-military-drone-project-maven-tensorflow
-Llano, M. (2022, November 28). AI Wars: Lockheed Martin’s efforts to weaponize AI. Digital Innovation and Transformation. https://d3.harvard.edu/platform-digit/submission/ai-wars-lockheed-martins-efforts-to-weaponize-ai/
-Lockheed Martin. (n.d.). Sikorsky and DARPA's autonomous Black Hawk® flies logistics and rescue missions without pilots on board. Lockheed Martin. https://news.lockheedmartin.com/2022-11-02-Sikorsky-and-DARPAs-Autonomous-Black-Hawk-R-Flies-Logistics-and-Rescue-Missions-Without-Pilots-on-Board#:~:text=Sikorsky%2C%20a%20Lockheed%20Martin%20company%2C%20and%20the%20Defense%20Advanced%20Research,resupply%20missions%2C%20and%20a%20rescue
-Nelson, J. (2023, July 06). US Military is training AI to give orders and handle State secrets. Decrypt. https://decrypt.co/147588/us-military-training-ai-give-orders-handle-state-secrets
-Scale. (n.d.). Building trust in AI. SCALE. https://scale.com/donovan
-Stilwell, B. (n.d.). How the Army and Air Force integrate AI learning into combat training. Military.com. https://www.military.com/military-life/how-army-and-air-force-integrate-ai-learning-combat-training.html
+
+Clark, J. (2023, June 15). _DOD committed to ethical use of artificial intelligence._ U.S. Department of Defense. https://www.defense.gov/News/News-Stories/Article/Article/3429864/dod-committed-to-ethical-use-of-artificial-intelligence/
+
+CSIS (2020, November 06). _Joint Artificial Intelligence Center director discusses artificial intelligence and the military. U.S. Department of Defense._ https://www.defense.gov/Multimedia/Videos/videoid/772012/
+
+Gibbs, S. (2018, March 07). _Google’s AI is being used by US military drone programme._ The Guardian. https://www.theguardian.com/technology/2018/mar/07/google-ai-us-department-of-defense-military-drone-project-maven-tensorflow
+
+Llano, M. (2022, November 28). _AI Wars: Lockheed Martin’s efforts to weaponize AI. Digital Innovation and Transformation._ https://d3.harvard.edu/platform-digit/submission/ai-wars-lockheed-martins-efforts-to-weaponize-ai/
+
+Lockheed Martin. (n.d.). _Sikorsky and DARPA's autonomous Black Hawk® flies logistics and rescue missions without pilots on board. Lockheed Martin._ https://news.lockheedmartin.com/2022-11-02-Sikorsky-and-DARPAs-Autonomous-Black-Hawk-R-Flies-Logistics-and-Rescue-Missions-Without-Pilots-on-Board#:~:text=Sikorsky%2C%20a%20Lockheed%20Martin%20company%2C%20and%20the%20Defense%20Advanced%20Research,resupply%20missions%2C%20and%20a%20rescue
+
+Nelson, J. (2023, July 06). _US Military is training AI to give orders and handle State secrets._ Decrypt. https://decrypt.co/147588/us-military-training-ai-give-orders-handle-state-secrets
+
+Scale. (n.d.). _Building trust in AI._ SCALE. https://scale.com/donovan
+
+Stilwell, B. (n.d.). _How the Army and Air Force integrate AI learning into combat training._ Military.com. https://www.military.com/military-life/how-army-and-air-force-integrate-ai-learning-combat-training.html
+
 
 __Things to Consider__
 
-Fleming, M. (2020, March 24). AI Is Changing Work—And Leaders Need to Adapt. Harvard Business Review. https://hbr.org/2020/03/ai-is-changing-work-and-leaders-need-to-adapt
-Marr, B. (2023, July 26). The 10 Biggest Mistakes Companies Make When Creating An AI Strategy. Forbes. https://www.forbes.com/sites/bernardmarr/2023/07/26/the-10-biggest-mistakes-companies-make-when-creating-an-ai-strategy/
-The Biggest Barriers to Technology Adoption in Business. (2021, December 17). Impact Networking. https://www.impactmybiz.com/blog/barriers-to-technology-adoption-in-business/
+Fleming, M. (2020, March 24). _AI Is Changing Work—And Leaders Need to Adapt._ Harvard Business Review. https://hbr.org/2020/03/ai-is-changing-work-and-leaders-need-to-adapt
+
+Marr, B. (2023, July 26). _The 10 Biggest Mistakes Companies Make When Creating An AI Strategy._ Forbes. https://www.forbes.com/sites/bernardmarr/2023/07/26/the-10-biggest-mistakes-companies-make-when-creating-an-ai-strategy/
+
+_The Biggest Barriers to Technology Adoption in Business._ (2021, December 17). Impact Networking. https://www.impactmybiz.com/blog/barriers-to-technology-adoption-in-business/
 
 <!--chapter:end:12-References.Rmd-->
 
