@@ -1,7 +1,7 @@
 # About Us
 
 
-![](group_picture.jpeg)
+![](Group_photo.png)
 
 
 ## Tushar Mittal
@@ -30,7 +30,13 @@ I am Juliet Niebylski. I am a Master of Business Analytics (MBAn) student at Uni
 
 ## Ruchi Pallod
 
-Hi! I’m Ruchi, currently pursuing a Master of Business Analytics at Michigan Ross. I possess extensive experience in the Finance & Banking industry and have my undergraduate degree in Economics and Statistics. At Ross, I’m working part-time as a Research Associate  at the Economic Growth Institute. 
+![](Ruchi Profile.jpg)
+
+Hi! I’m Ruchi, currently pursuing a Master of Business Analytics at Michigan Ross. I possess extensive experience in the Finance & Banking industry and have my undergraduate degree in Economics and Statistics. 
+At Ross, I’m working as a Research Associate at the Economic Growth Institute. I perform financial analysis, research on automotive companies and recommend projects that these companies should undertake to remain competitive in the new EV world. 
+
+Ross is an exciting place to be, and it’s never a dull day to be on campus! New to Michigan, I am determined to explore as many state parks as possible in these short 10 months! And I have already explored 7 state parks of the Upper Peninsula! Outside of work & classes, I enjoy reading, painting & nature walks! 
+
 
 ## Ashley Chen
 
