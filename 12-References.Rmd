@@ -2,23 +2,49 @@
 
 __Need for Hard Adoption__
 
+Desjardins, J. (2018, February 14). ___The Rising Speed of Technological Adoption.___ Visual Capitalist. https://www.visualcapitalist.com/rising-speed-technological-adoption/
+
 __Finance__
+
+___AI in Finance: Applications, Examples & Benefits.___ (n.d.). Google Cloud. https://cloud.google.com/discover/finance-ai
+
+Basrai, A., & Ali, S. (2021, September 23). ___Artificial Intelligence in Risk Management - KPMG United Arab Emirates___. KPMG. https://kpmg.com/ae/en/home/insights/2021/09/artificial-intelligence-in-risk-management.html#:~:text=In%20risk%20management%2C%20AI%2FML
+
+Fries, T. (2023, January 6). ___Robo-Advisor vs. Financial Advisor (2022): Choose the Right One.___ The Tokenist. https://tokenist.com/investing/robo-advisor-vs-financial-advisor/
+
+Gartner. (2022, October 13). ___Gartner Identifies 5 Top Use Cases for AI in Corporate Finance.___ Gartner. https://www.gartner.com/en/newsroom/press-releases/2022-10-13-gartner-identifies-5-top-use-cases-for-ai-in-corporate-finance
+
+Kikidzhan, K. (2021, October 15). ___AI for Risk Management: Why Use and How to Ace It.___ Vilmate. https://vilmate.com/blog/ai-for-risk-management-pros-cons-tips/
+
+Lee, J. (2023, January 18). ___The Future of AI in Lending.___ Experian. https://www.experian.com/blogs/insights/2023/01/future-ai-lending/#:~:text=The%20benefits%20of%20AI%20in
+
+Sandoval, I., & Riddell, S. (2023, January 19). ___How AI is Advancing the Securities and Commodities Industry.___ Www.morganlewis.com. https://www.morganlewis.com/pubs/2023/01/how-ai-is-advancing-the-securities-and-commodities-industry
+
 
 __Tech__
 
 __Retail__
 
 Alva, M. (n.d.). As AI adoption increases in the retail industry, AI preparedness increases – is it moving too fast? KPMG. Retrieved August 18, 2023, from https://info.kpmg.us/news-perspectives/technology-innovation/thriving-in-an-ai-world/ai-adoption-retail.html
+
 DeVon, C. (2023, May 19). From Amazon to Wendy’s, how 4 companies plan to incorporate AI—and how you may interact with it. CNBC. https://www.cnbc.com/2023/05/19/from-amazon-to-walmart-how-companies-plan-to-incorporate-ai.html
+
 Goldman, S. (2022, June 9). AI is embedded everywhere at Walmart. VentureBeat. https://venturebeat.com/ai/ai-is-embedded-everywhere-at-walmart/
+
 Incandela, D. (2022, March 2). Walmart Launches Zeekit Virtual Fitting Room Technology. Walmart. https://corporate.walmart.com/newsroom/2022/03/02/walmart-launches-zeekit-virtual-fitting-room-technology
+
 Owen, R. (2021, August 7). AI at Walmart—Comparison to Amazon, and Two Unique Use-Cases. Emerj. https://emerj.com/ai-sector-overviews/ai-at-walmart/
+
 Perez, S. (2019, April 25). Walmart unveils an AI-powered store of the future, now open to the public. TechCrunch. https://techcrunch.com/2019/04/25/walmart-unveils-an-a-i-powered-store-of-the-future-now-open-to-the-public/
+
 Perez, S. (2022, March 2). Walmart launches AI-powered virtual clothing try-on technology for online shoppers. TechCrunch. https://techcrunch.com/2022/03/02/walmart-launches-a-i-powered-virtual-clothing-try-on-technology-for-online-shoppers/
+
 Saucy. (2019, September 21). Bossa Nova robot scanning shelf at Walmart.jpg. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Bossa_Nova_robot_scanning_shelf_at_Walmart.jpg
+
 Silberling, A. (2021, June 24). Walmart’s AI is getting smarter about grocery delivery. TechCrunch. https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/
+
 Sularia, S. (2023, March 14). Six Ways Retail Can Leverage Generative AI To Transform Business. Forbes. https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/
-Walmart’s AI-Powered Store of the Future Is Nothing Like Amazon Go. (n.d.). Future Stores. Retrieved August 18, 2023, from https://futurestoreseast.wbresearch.com/blog/walmart-ai-powered-store-strategy-future-amazon-go
+___Walmart’s AI-Powered Store of the Future Is Nothing Like Amazon Go.___ (n.d.). Future Stores. Retrieved August 18, 2023, from https://futurestoreseast.wbresearch.com/blog/walmart-ai-powered-store-strategy-future-amazon-go
 
 __Automotive__
 
