@@ -33,6 +33,8 @@ As Lockheed Martin is one of largest and sophisticated military equipment provid
 
 The autonomous Black Hawk prototype showed to the U.S. Army’s Project Convergence 2022 (PC22) how the future aviation can be used for complex military missions, giving more flexibility in limited visibility or contested environments as well as decreasing risk of being injured by attack (Lockheed Martin, n.d.; Llano, 2022).
 
+![](Hawk.jpg)
+
 ## Future Prospects
 
 The Department of Defense envisions a future where artificial intelligence collaborates synergistically with human intellect. The goal is not to replace military personnel, but rather to enhance their missions by enabling them to operate faster, smarter, and efficiently.

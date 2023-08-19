@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Need for Hard Adoption {.unnumbered}
+=======
 # Need for Hard Adoption
 
 
@@ -17,3 +20,4 @@ Gartner suggests a 5 phase model to show how AI can be leveraged within their or
 3. Model Selection: Which AI model is best suited to help us solve the targeted business problem or deliver on the targeted business outcome?
 4. Model Deployment: How can we train and test our model to ensure it will produce the insights necessary to solve the business problem or deliver on the business outcome?
 5. Continuous Monitoring: How can we ensure continued accuracy, precision and recall for the model we deployed so that we can provide appropriate levels of assurance and make adjustments if needed?
+>>>>>>> 926f2417470d27ddf9990340329d18b8345e1cf8

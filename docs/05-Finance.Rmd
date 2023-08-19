@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Finance {.unnumbered}
+=======
 # Finance
 
 Like any other industry, the growth of technology has also had profound impacts in the field of finance. Technologies and innovations like real-time stock price movements, online brokerage, digital currencies, mobile banking, and peer-to-peer payments are some of the few examples of how technology has influenced the financial industry and our daily lives. These technologies also gave rise to the FinTech industry - combining Finance and Technology. However finance in business is a much broader topic encompassing capital and credit markets, investments, wealth and asset management, mergers and acquisition, risk management and compliance, insurance, as well as corporate finance.
@@ -31,3 +34,4 @@ Besides regular automation to streamline manual processes, AI is also used in th
 
 Financial analysts will still be a very sought-after profession in the coming future, however, the profession will evolve from mere date entry, reporting, and analysis to data interpretation and relationship management. Knowledge of financial and accounting principles will be core to the profession and will help develop algorithms that will aid finance professionals in business analysis, building strategies, and communication with stakeholders.
 
+>>>>>>> 926f2417470d27ddf9990340329d18b8345e1cf8

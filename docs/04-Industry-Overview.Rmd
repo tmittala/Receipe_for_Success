@@ -1,5 +1,9 @@
+<<<<<<< HEAD
+# Industry Overview {.unnumbered}
+=======
 # Industry Overview
 
 Application of AI in 2 main ways: 1) to develop technological innovations 2) to support managerial capabilities 3) success metrics (various in different industries)
 
 In this website, we will be discussing how AI is being adopted in five different industries. These industries are Finance, Tech, Retail, Automotive, and the Public Sector with examples from the Department of Defense. Through these examples, we can see that …
+>>>>>>> 926f2417470d27ddf9990340329d18b8345e1cf8

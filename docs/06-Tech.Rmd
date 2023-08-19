@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Tech {.unnumbered}
+=======
 # Tech
 
 ## 3 Main Ways Tech Companies Make Mmoney (3 Major Business Models):
@@ -15,3 +18,4 @@ Predictive Maintenance: If the company sells hardware products, AI can be used t
 Dynamic Pricing: AI algorithms can optimize pricing strategies by analyzing market trends, competitor pricing, and customer demand. This can help maximize revenue by adjusting prices in real-time for optimal sales outcomes.
 
 Example: Amazon's Product Recommendations
+>>>>>>> 926f2417470d27ddf9990340329d18b8345e1cf8
