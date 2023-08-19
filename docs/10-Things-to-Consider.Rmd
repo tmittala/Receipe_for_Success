@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 # Things to Consider {.unnumbered}
+=======
+# Things to Consider
+
+AI can provide benefit in a vast number of fields as shown through the examples in various industries above. AI is not just a magic wand that can solve all of a business’s problems in an instant. In order for AI to be beneficial for a company, its implementation needs to be carefully planned. To implement AI in a way that will be useful in a company, there needs to be “a comprehensive shift in organizational culture and operations” so that members of a company are awareful of the changes and can properly use AI (Marr, 2023). There needs to be “buy-in from all levels” of employees in a company to get on board with adopting AI so that employees are willing to adapt and make the necessary changes to their everyday work activities (Impact, 2021). Certain employees will need to be retrained so that they are able to utilize and understand how to use AI in their role (Fleming, 2020). This requires a large investment from the company to pay for these changes (Marr, 2023). Providing training may also take time away from employees’ work duties, but it is necessary in order for AI adoption to be successful. Developing an AI for a company is not useful if people in the company don’t know how to utilize the AI in their role. AI is an investment which requires monetary resources and time in order for it to provide benefit for a company.
+
+(Marr, 2023) https://www.forbes.com/sites/bernardmarr/2023/07/26/the-10-biggest-mistakes-companies-make-when-creating-an-ai-strategy/?sh=50ae4dae4b48
+
+[Impact, 2021](https://www.impactmybiz.com/blog/barriers-to-technology-adoption-in-business/)
+
+(Fleming, 2020)
+https://hbr.org/2020/03/ai-is-changing-work-and-leaders-need-to-adapt
+>>>>>>> 926f2417470d27ddf9990340329d18b8345e1cf8

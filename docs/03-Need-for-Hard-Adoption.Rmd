@@ -1,1 +1,23 @@
+<<<<<<< HEAD
 # Need for Hard Adoption {.unnumbered}
+=======
+# Need for Hard Adoption
+
+
+In today's landscape, AI has obviously taken the spotlight, captivating businesses worldwide as they seek to unlock its potential for maximum value. Yet, a fundamental question emerges: how can organizations effectively integrate AI into their business? There has been an uptick in technology adoption, no doubt, for instance while radio adoption spanned 47 years, the internet achieved over 80% adoption in just 23 years in the US. However, the context shifts when we consider AI. It calls for resolute hard adoption, not through gradual refinement such as in IT which took almost over a decade to transform businesses, but through swift, transformative shifts to reshape both business processes and mindsets.
+
+Soft adoption example: an SME can start from a bystander position, gradually develop capabilities, and eventually deploy these capabilities to enhance managerial practice and serve new and existing markets;
+
+## Relevance of Hard Adoption: {-}
+Companies that have technology at their core will emerge as clear winners. "There's a clear differentiation being set between automotive companies not by AI but by their corporate culture. And it's a very old dilemma that exists between technology and businesses, because technology can achieve many things but when the business itself resists disruption, technology alone cannot do much," says Pedro Pacheco, VP Analyst at Gartner who believes that for the new breed of vehicle manufacturers like Tesla, software comes first. "Because of that, it's a lot easier for them to redefine business models where they can extract the biggest business benefit from software. And these are the companies that most likely will be in a better position to extract benefits from AI," he explains.
+
+Many AI investments tend to focus on developing or acquiring isolated capabilities for specific use cases. This approach overlooks the importance of integrating AI capabilities cohesively to solve real business challenges and cater to various use cases. Organizations that persist in ad hoc AI investment strategies run the risk of lagging behind competitors who effectively harness this evolving technology to achieve substantial productivity improvements.
+
+Gartner suggests a 5 phase model to show how AI can be leveraged within their organization, from identification of viable use cases through to managing outputs. (Gartner, n.d.)
+
+1. Business Case: How can we use AI to identify and scope the business problem that needs to be solved or business outcome that needs to be achieved?
+2. Data Discovery: How can we use AI to determine what data is needed to address the business problem or deliver on the business outcome?
+3. Model Selection: Which AI model is best suited to help us solve the targeted business problem or deliver on the targeted business outcome?
+4. Model Deployment: How can we train and test our model to ensure it will produce the insights necessary to solve the business problem or deliver on the business outcome?
+5. Continuous Monitoring: How can we ensure continued accuracy, precision and recall for the model we deployed so that we can provide appropriate levels of assurance and make adjustments if needed?
+>>>>>>> 926f2417470d27ddf9990340329d18b8345e1cf8
