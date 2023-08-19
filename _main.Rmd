@@ -22,12 +22,8 @@ site: bookdown::bookdown_site
 
 <!--chapter:end:index.Rmd-->
 
-<<<<<<< HEAD
-
 # Introduction {.unnumbered}
-=======
-# Introduction
->>>>>>> 926f2417470d27ddf9990340329d18b8345e1cf8
+
 __Adoption of AI in Business__
 
 Looking back when computers first came, the big question was if technology would dominate the world. In 2000, the whole world wondered if the internet would dominate the existing systems. And now in 2023, with the advent of AI, the big question is __How is the world going to change now?__
@@ -314,6 +310,7 @@ As Lockheed Martin is one of largest and sophisticated military equipment provid
 The autonomous Black Hawk prototype showed to the U.S. Army’s Project Convergence 2022 (PC22) how the future aviation can be used for complex military missions, giving more flexibility in limited visibility or contested environments as well as decreasing risk of being injured by attack (Lockheed Martin, n.d.; Llano, 2022).
 
 ![](Hawk.jpg)
+
 ## Future Prospects
 
 The Department of Defense envisions a future where artificial intelligence collaborates synergistically with human intellect. The goal is not to replace military personnel, but rather to enhance their missions by enabling them to operate faster, smarter, and efficiently.

@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-
 # Introduction {.unnumbered}
-=======
-# Introduction
->>>>>>> 926f2417470d27ddf9990340329d18b8345e1cf8
+
 __Adoption of AI in Business__
 
 Looking back when computers first came, the big question was if technology would dominate the world. In 2000, the whole world wondered if the internet would dominate the existing systems. And now in 2023, with the advent of AI, the big question is __How is the world going to change now?__
