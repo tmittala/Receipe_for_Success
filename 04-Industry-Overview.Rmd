@@ -1,3 +1,0 @@
-# Industry Overview
-
-In this website, we will be discussing how AI is being adopted in five different industries. These industries are Finance, Tech, Retail, Automotive, and the Public Sector with examples from the Department of Defense. Through these examples, we can see that …

@@ -13,9 +13,9 @@ The AI in the Automotive sector surpassed a value of $6 billion in 2022 and is a
 
 ## Multiple Use-cases of AI
 
-This infographic identifies 16 of the most prominent AI use cases that can improve operations from manufacturing to customer interactions in the automotive enterprise. Data and analytics leaders can use this as a starting point for further fine-tuning. (Ramsey, Pacheco, Davenport, & Linden, 2022)
+This infographic identifies 16 of the most prominent AI use cases that can improve operations from manufacturing to customer interactions in the automotive enterprise. Data and analytics leaders can use this as a starting point for further fine-tuning. (Ramsey, et al., 2022)
 
-![](Pyramid.png)
+![(Photo 15: Ramsey, et al., 2022)](Pyramid.png)
 
 ## The Automotive Value Chain
 
@@ -43,4 +43,4 @@ Toyota's innovative approach in the automotive sector involves leveraging AI to 
 
 In conclusion, Artificial intelligence is transforming the automotive industry and promising a future of transportation that is safer, more efficient, and personalized. With advancements in autonomous driving, intelligent safety features, optimized traffic management, predictive maintenance, and personalized driving experiences, AI is revolutionizing the way we travel. As AI continues to evolve, we can look forward to a future where transportation is more accessible, reliable, and enjoyable for all. Embracing AI in the automotive sector will lead to safer roads, efficient travel, and enhanced overall driving experiences.(Olufemi, 2023)
 
-![](Canva.png)
+![Photo 16: Different ways of embracing AI in Automotive Industry](Canva.png)
