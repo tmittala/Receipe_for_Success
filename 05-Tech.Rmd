@@ -20,7 +20,7 @@ Example: Amazon Web Services (AWS), GCP, MS Azure, Salesforce.
 
 3. Dynamic Pricing: AI algorithms can optimize pricing strategies by analyzing market trends, competitor pricing, and customer demand. This can help maximize revenue by adjusting prices in real-time for optimal sales outcomes.(Palmer, A., 2023). Example: Amazon's Product Recommendations
 
-![Photo 8 (Muralidharan, G. ,2023)](tech1.png)
+![Photo 8: (Muralidharan, 2023)](tech1.png)
   	
 ### Services and Subscriptions:
 
@@ -31,14 +31,15 @@ Example: Amazon Web Services (AWS), GCP, MS Azure, Salesforce.
 3. Predictive Churn Prevention: AI can predict when subscribers are likely to cancel their services. By identifying potential churn risks early, companies can take proactive measures to retain customers and reduce subscription attrition.
 Example: Amazon Web Services (AWS)
 
-![Photo 9 (SCC En la Red. ,2017)](tech2.png)
+![Photo 9: (SCC En la Red., 2017)](tech2.png)
+
 
 ### Advertising
 
 Targeted Advertising: AI algorithms can analyze user data to create highly targeted and relevant advertisements. This improves click-through rates and ad engagement, leading to increased ad revenue.
 Example: Google's AdSense
 
-![Photo 10 (David, E., 2023)](tech3.png)
+![Photo 10: (David, 2023)](tech3.png)
 
 
 ## Major Costs for Tech Companies:

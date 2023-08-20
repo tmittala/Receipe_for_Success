@@ -6,7 +6,7 @@ AI can be used in many areas of the retail industry such as providing personaliz
 
 ### In-Store Robots
 
-Walmart is adopting AI in its Sam’s Club stores through the use of a robotic floor cleaner which also takes photos of the shelves (DeVon, 2023; Sam’s Club, 2022). Based on these images, a program automatically alerts the store of what product needs to be restocked (DeVon, 2023). In 2022, Sam’s Club started a “chain-wide roll out of almost 600 Inventory Scan towers ... powered by Brain Corp’s AI operating system” (Sam's Club, 2022). This two-in-one robot is useful in providing customers with a better shopping experience since it both cleans the floors and alerts of a needed restock so that customers are in a cleaner store with stocked shelves.
+Walmart is adopting AI in Sam’s Club stores through the use of a robotic floor cleaner which also takes photos of the shelves (DeVon, 2023; Sam’s Club, 2022). Based on these images, a program automatically alerts the store of what product needs to be restocked (DeVon, 2023). In 2022, Sam’s Club started a “chain-wide roll out of almost 600 Inventory Scan towers ... powered by Brain Corp’s AI operating system” (Sam's Club, 2022). This two-in-one robot is useful in providing customers with a better shopping experience since it both cleans the floors and alerts of a needed restock so that customers are in a cleaner store with stocked shelves.
 
 ![Photo 12: Robot at Walmart Store (Devon, 2023)](Walmart_Brain_Corp_Robot.jpg)
 

@@ -88,7 +88,7 @@ As a **Military Spouse**, life changes every three years, so my option to start 
 
 In today's landscape, AI has obviously taken the spotlight, captivating businesses worldwide as they seek to unlock its potential for maximum value. Yet, a fundamental question emerges: how can organizations effectively integrate AI into their business? There has been an uptick in technology adoption, no doubt, for instance while radio adoption spanned 47 years, the internet achieved over 80% adoption in just 23 years in the US (Desjardins, 2018). However, the context shifts when we consider AI. It calls for resolute hard adoption, not through gradual refinement such as in IT which took almost over a decade to transform businesses, but through swift, transformative shifts to reshape both business processes and mindsets.
 
-## Relevance of Hard Adoption: {-}
+## Relevance of Hard Adoption {-}
 Companies that have technology at their core will emerge as clear winners. "There's a clear differentiation being set between automotive companies not by AI but by their corporate culture. And it's a very old dilemma that exists between technology and businesses, because technology can achieve many things but when the business itself resists disruption, technology alone cannot do much," says Pedro Pacheco, VP Analyst at Gartner who believes that for the new breed of vehicle manufacturers like Tesla, software comes first. "Because of that, it's a lot easier for them to redefine business models where they can extract the biggest business benefit from software. And these are the companies that most likely will be in a better position to extract benefits from AI," he explains (Lidhoo, 2023).
 
 Many AI investments tend to focus on developing or acquiring isolated capabilities for specific use cases. This approach overlooks the importance of integrating AI capabilities cohesively to solve real business challenges and cater to various use cases. Organizations that persist in ad hoc AI investment strategies run the risk of lagging behind competitors who effectively harness this evolving technology to achieve substantial productivity improvements.
@@ -170,7 +170,7 @@ Example: Amazon Web Services (AWS), GCP, MS Azure, Salesforce.
 
 3. Dynamic Pricing: AI algorithms can optimize pricing strategies by analyzing market trends, competitor pricing, and customer demand. This can help maximize revenue by adjusting prices in real-time for optimal sales outcomes.(Palmer, A., 2023). Example: Amazon's Product Recommendations
 
-![Photo 8 (Muralidharan, G. ,2023)](tech1.png)
+![Photo 8: (Muralidharan, 2023)](tech1.png)
   	
 ### Services and Subscriptions:
 
@@ -181,14 +181,15 @@ Example: Amazon Web Services (AWS), GCP, MS Azure, Salesforce.
 3. Predictive Churn Prevention: AI can predict when subscribers are likely to cancel their services. By identifying potential churn risks early, companies can take proactive measures to retain customers and reduce subscription attrition.
 Example: Amazon Web Services (AWS)
 
-![Photo 9 (SCC En la Red. ,2017)](tech2.png)
+![Photo 9: (SCC En la Red., 2017)](tech2.png)
+
 
 ### Advertising
 
 Targeted Advertising: AI algorithms can analyze user data to create highly targeted and relevant advertisements. This improves click-through rates and ad engagement, leading to increased ad revenue.
 Example: Google's AdSense
 
-![Photo 10 (David, E., 2023)](tech3.png)
+![Photo 10: (David, 2023)](tech3.png)
 
 
 ## Major Costs for Tech Companies:
@@ -218,7 +219,7 @@ AI can be used in many areas of the retail industry such as providing personaliz
 
 ### In-Store Robots
 
-Walmart is adopting AI in its Sam’s Club stores through the use of a robotic floor cleaner which also takes photos of the shelves (DeVon, 2023; Sam’s Club, 2022). Based on these images, a program automatically alerts the store of what product needs to be restocked (DeVon, 2023). In 2022, Sam’s Club started a “chain-wide roll out of almost 600 Inventory Scan towers ... powered by Brain Corp’s AI operating system” (Sam's Club, 2022). This two-in-one robot is useful in providing customers with a better shopping experience since it both cleans the floors and alerts of a needed restock so that customers are in a cleaner store with stocked shelves.
+Walmart is adopting AI in Sam’s Club stores through the use of a robotic floor cleaner which also takes photos of the shelves (DeVon, 2023; Sam’s Club, 2022). Based on these images, a program automatically alerts the store of what product needs to be restocked (DeVon, 2023). In 2022, Sam’s Club started a “chain-wide roll out of almost 600 Inventory Scan towers ... powered by Brain Corp’s AI operating system” (Sam's Club, 2022). This two-in-one robot is useful in providing customers with a better shopping experience since it both cleans the floors and alerts of a needed restock so that customers are in a cleaner store with stocked shelves.
 
 ![Photo 12: Robot at Walmart Store (Devon, 2023)](Walmart_Brain_Corp_Robot.jpg)
 
@@ -349,11 +350,9 @@ AI can provide benefit in a vast number of fields as shown through the examples 
 
 <!--chapter:end:09-Things-to-Consider.Rmd-->
 
-# Conclusion
+# Conclusion: Bringing It All Together
 
 From finance to technology, automotive to retail, and the public sector, AI is reshaping operations in profound ways. AI adoption is no longer an emerging trend, with 73% of data and analytics decision-makers building AI technologies and 74% seeing a positive impact in their organizations (Curan, et al., 2022).
-
-Despite the diverse applications of AI across industries, these industries are united in their pursuit of adopting AI to enhance their operations:
 
 Despite the diverse applications of AI across industries, these industries are united in their pursuit of adopting AI to enhance their operations:
 
