@@ -22,7 +22,7 @@ site: bookdown::bookdown_site
 
 <!--chapter:end:index.Rmd-->
 
-# Introduction {.unnumbered}
+# Introduction
 
 __Adoption of AI in Business__
 
