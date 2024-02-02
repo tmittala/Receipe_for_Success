@@ -1,16 +1,8 @@
 Welcome! 
 AI in Business
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+Looking back when computers first came, the big question was if technology would dominate the world. In 2000, the whole world wondered if the internet would dominate the existing systems. And now in 2023, with the advent of Artificial Intelligence (AI), the big question is **How is the world going to change now?**
 
-This template provides a skeleton file structure that you can edit to create your book. 
+As AI technologies develop, companies need to adapt corporate strategies to utilize these technologies for their benefit. AI should be utilized in conjunction with humans. The evolving landscape of AI does not mean the replacement of human involvement but rather a harmonious collaboration of human intellect with machine acumen in an era of innovation and efficacy.
 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
-
-Additional resources:
-
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
-
-
+The purpose of this project is to guide the reader through a variety of industries illustrating their current application of AI and the primary objectives they aim to achieve through its implementation. In this website, we will be discussing how AI is being adopted in five different industries: Finance, Tech, Retail, Automotive, and the Public Sector - Department of Defense.
